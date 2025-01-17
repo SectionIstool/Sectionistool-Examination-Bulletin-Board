@@ -24,13 +24,13 @@
 > **如果您有任何建议或意见，欢迎提交 [Issue](https://github.com/SectionIstool/Sectionistool-Examination-Bulletin-Board/issues)！**
 
 > [!tip]
-> **本软件是 >SectionIstool< 旗下的 >Sectionistool-Examination-Bulletin-Board< 类插件项目**
+> **本软件是 SectionIstool 旗下的 Sectionistool-Examination-Bulletin-Board 类插件项目**
 >
 > **该软件是测试版本,正式版 <1.0.0> 发布Releases**
 
 ## 功能
 ### 主要功能
-- [X] >SectionIstool< 旗下的 考试看版 >Sectionistool-Examination-Bulletin-Board< 类插件项目
+- [X] SectionIstool 旗下的 考试看版 Sectionistool-Examination-Bulletin-Board 类插件项目
 - [ ] 支持显示当前时间(可选用 北京时间 / 系统时间)
 - [ ] 支持特点时间的强提醒
 - [ ] 支持在考试时间隐藏全部考试信息
