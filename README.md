@@ -30,7 +30,12 @@
 
 ## 功能
 ### 主要功能
-- [X] SectionIstool 旗下的 考试看版(Sectionistool Examination Bulletin Board)
+- [X] <SectionIstool> 旗下的 考试看版 <Sectionistool-Examination-Bulletin-Board> 类插件项目
+- [ ] 支持显示当前时间(可选用 北京时间 / 系统时间)
+- [ ] 支持特点时间的强提醒
+- [ ] 支持在考试时间隐藏全部考试信息
+- [ ] 支持暂时退出考试看板
+- [ ] 支持直接打开文件资源管理器
 
 ### 设置功能
 - [ ] 设置界面支持设置、修改软件的大部分功能
