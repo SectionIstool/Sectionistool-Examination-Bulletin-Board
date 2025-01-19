@@ -1,6 +1,6 @@
 <div align="center">
 
-<image src="icon/SectionIstool_icon.png" height="128"/>
+<image src="resources/icon.png" height="128"/>
 
 # SectionIstool
 
