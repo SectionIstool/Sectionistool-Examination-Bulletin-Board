@@ -26,6 +26,8 @@
 > [!tip]
 > **本软件是 SectionIstool 旗下的 Sectionistool-Examination-Bulletin-Board 类插件项目**
 >
+> **本项目借鉴的代码来自 [SectionIstool-Examination-Bulletin-Board](https://github.com/SectionIstool/Sectionistool-Examination-Bulletin-Board)**
+>
 > **该软件是测试版本,正式版 <1.0.0> 发布Releases**
 
 ## 功能
